@@ -712,7 +712,7 @@
     - Reporting
     - Reports
 - name: AlertNotification
-  friendly_name: Alert Notification
+  friendly_name: IBM Alert Notification
   category: Stroke
   aliases:
     - Cloud
