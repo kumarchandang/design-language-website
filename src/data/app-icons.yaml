@@ -34,7 +34,7 @@
     - purple
     - circle
 - name: CloudStaticRoute
-  friendly_name: IBM Cloud® static route
+  friendly_name: IBM Cloud® Static Route
   category: Stroke
   aliases:
     - Cloud
@@ -1449,7 +1449,7 @@
     - Virtual private cloud
     - Virtual private cloud network
 - name: CloudVPCEndpoints
-  friendly_name: Cloud VPC endpoints
+  friendly_name: IBM Cloud® Virtual Private Cloud (VPC) endpoints
   category: Stroke
   aliases:
     - Hybrid
@@ -1776,7 +1776,7 @@
     - Machine replacement help
     - Machine replacement
 - name: ePassMobile
-  friendly_name: ePass Mobile
+  friendly_name: IBM ePass Mobile
   category: Stroke
   aliases:
     - GTS
@@ -2024,7 +2024,7 @@
     - IoT management
     - Internet of Things management
 - name: IoTAsset
-  friendly_name: IoT Asset
+  friendly_name: IoT asset
   category: Stroke
   aliases:
     - Watson
@@ -2159,7 +2159,7 @@
     - Phone
     - Connect
 - name: Live-Events
-  friendly_name: IBM Live, IBM Events
+  friendly_name: IBM Live | IBM Events
   category: Stroke
   aliases:
     - CHQ
